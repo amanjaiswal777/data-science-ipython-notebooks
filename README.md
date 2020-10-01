@@ -10,6 +10,8 @@
 
 # data-science-ipython-notebooks
 
+* A very informative learning material source for learn the concept to build a product with the combination of various tools and libraries.
+
 ## Index
 
 * [deep-learning](#deep-learning)
